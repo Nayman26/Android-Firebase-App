@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "353564450343",
+    "firebase_url": "https://neural-geode-240123.firebaseio.com",
+    "project_id": "neural-geode-240123",
+    "storage_bucket": "neural-geode-240123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353564450343:android:70033dec61e568d8",
+        "android_client_info": {
+          "package_name": "com.example.yazlab3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353564450343-1f266vs415bn3nt2gf87s2icg2t7jl5n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yazlab3",
+            "certificate_hash": "105ba669979a0b71897ce94b985bd256486b8e9f"
+          }
+        },
+        {
+          "client_id": "353564450343-op9vdkc4rff70nqktr3crgf3n4hqc1mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBFs8IglCcF8UpKNtkT41agIYKgAD30AE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353564450343-op9vdkc4rff70nqktr3crgf3n4hqc1mj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
